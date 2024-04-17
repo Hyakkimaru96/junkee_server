@@ -12,3 +12,5 @@ python-dotenv
 PyGithub
 cookiecutter
 gitpython
+twilio
+phonenumbers
